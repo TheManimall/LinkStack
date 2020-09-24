@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "vovk yurii spdev",
+  "mongoUri": "mongodb+srv://admin:qwerty1234@cluster0.wwzke.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
